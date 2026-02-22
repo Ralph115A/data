@@ -1,4 +1,7 @@
-[
+icao:FFP
+name:Fischer Air Polska
+callsing:Flying Fish
+virtual:thrue[
   {
     "icao": "OCN",
     "name": "vOCN",
