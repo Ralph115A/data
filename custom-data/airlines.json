@@ -1,4 +1,7 @@
-[
+["icao": "FFP",
+    "name": "Fischer Air Polska",
+    "callsign": "Flying Fish",
+    "virtual": true
   {
     "icao": "OCN",
     "name": "vOCN",
